@@ -1,0 +1,56 @@
+Original Type	Classified type		Result Type
+ham		ham			True Negative
+ham		ham			True Negative
+spam		spam			True Positive
+ham		ham			True Negative
+spam		spam			True Positive
+spam		ham			False Negative
+ham		spam			False Positive
+spam		spam			True Positive
+spam		spam			True Positive
+ham		ham			True Negative
+spam		ham			False Negative
+ham		ham			True Negative
+ham		ham			True Negative
+spam		ham			False Negative
+ham		ham			True Negative
+ham		ham			True Negative
+ham		ham			True Negative
+ham		ham			True Negative
+spam		spam			True Positive
+spam		spam			True Positive
+ham		ham			True Negative
+spam		spam			True Positive
+spam		ham			False Negative
+ham		spam			False Positive
+spam		spam			True Positive
+spam		spam			True Positive
+spam		spam			True Positive
+ham		ham			True Negative
+ham		spam			False Positive
+ham		spam			False Positive
+ham		spam			False Positive
+ham		ham			True Negative
+ham		spam			False Positive
+spam		spam			True Positive
+ham		ham			True Negative
+ham		ham			True Negative
+ham		spam			False Positive
+ham		spam			False Positive
+ham		ham			True Negative
+ham		spam			False Positive
+spam		spam			True Positive
+ham		ham			True Negative
+spam		spam			True Positive
+spam		ham			False Negative
+ham		ham			True Negative
+spam		spam			True Positive
+spam		ham			False Negative
+ham		ham			True Negative
+spam		ham			False Negative
+ham		ham			True Negative
+True Positive :28.0%
+True Negative :40.0%
+False Positive :18.0%
+False Negative :14.0%
+Accuracy :68.0%
